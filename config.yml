@@ -1,0 +1,3 @@
+---
+  database_file_name: "ipmi_hosts.db"
+  database_configuration_file:
